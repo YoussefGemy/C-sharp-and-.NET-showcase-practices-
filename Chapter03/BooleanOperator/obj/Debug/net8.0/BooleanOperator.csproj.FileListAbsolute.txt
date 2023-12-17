@@ -1,0 +1,14 @@
+D:\code\Chapter03\BooleanOperator\bin\Debug\net8.0\BooleanOperator.exe
+D:\code\Chapter03\BooleanOperator\bin\Debug\net8.0\BooleanOperator.deps.json
+D:\code\Chapter03\BooleanOperator\bin\Debug\net8.0\BooleanOperator.runtimeconfig.json
+D:\code\Chapter03\BooleanOperator\bin\Debug\net8.0\BooleanOperator.dll
+D:\code\Chapter03\BooleanOperator\bin\Debug\net8.0\BooleanOperator.pdb
+D:\code\Chapter03\BooleanOperator\obj\Debug\net8.0\BooleanOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Chapter03\BooleanOperator\obj\Debug\net8.0\BooleanOperator.AssemblyInfoInputs.cache
+D:\code\Chapter03\BooleanOperator\obj\Debug\net8.0\BooleanOperator.AssemblyInfo.cs
+D:\code\Chapter03\BooleanOperator\obj\Debug\net8.0\BooleanOperator.csproj.CoreCompileInputs.cache
+D:\code\Chapter03\BooleanOperator\obj\Debug\net8.0\BooleanOperator.dll
+D:\code\Chapter03\BooleanOperator\obj\Debug\net8.0\refint\BooleanOperator.dll
+D:\code\Chapter03\BooleanOperator\obj\Debug\net8.0\BooleanOperator.pdb
+D:\code\Chapter03\BooleanOperator\obj\Debug\net8.0\BooleanOperator.genruntimeconfig.cache
+D:\code\Chapter03\BooleanOperator\obj\Debug\net8.0\ref\BooleanOperator.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jLE0Wf0FQ9U9RdMTsCysyowMrHOpcRDcAKv7YFjRa3RLVYTx9avg/Va33AMIA23AoouBEbooXACqlCZA4PrG5w==",
+  "success": true,
+  "projectFilePath": "D:\\code\\Chapter03\\BitwiseAndShiftOperators\\BitwiseAndShiftOperators.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: No such host is known. (api.nuget.org:443)"
+    }
+  ]
+}

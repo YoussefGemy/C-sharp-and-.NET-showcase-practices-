@@ -1,0 +1,10 @@
+D:\code\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.AssemblyReference.cache
+D:\code\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfoInputs.cache
+D:\code\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfo.cs
+D:\code\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.CoreCompileInputs.cache
+D:\code\Chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.deps.json
+D:\code\Chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.dll
+D:\code\Chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.pdb
+D:\code\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
+D:\code\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb

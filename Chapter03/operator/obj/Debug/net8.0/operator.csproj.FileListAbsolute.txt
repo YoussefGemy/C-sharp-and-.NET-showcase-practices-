@@ -1,0 +1,14 @@
+D:\code\Chapter03\operator\bin\Debug\net8.0\operator.exe
+D:\code\Chapter03\operator\bin\Debug\net8.0\operator.deps.json
+D:\code\Chapter03\operator\bin\Debug\net8.0\operator.runtimeconfig.json
+D:\code\Chapter03\operator\bin\Debug\net8.0\operator.dll
+D:\code\Chapter03\operator\bin\Debug\net8.0\operator.pdb
+D:\code\Chapter03\operator\obj\Debug\net8.0\operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Chapter03\operator\obj\Debug\net8.0\operator.AssemblyInfoInputs.cache
+D:\code\Chapter03\operator\obj\Debug\net8.0\operator.AssemblyInfo.cs
+D:\code\Chapter03\operator\obj\Debug\net8.0\operator.csproj.CoreCompileInputs.cache
+D:\code\Chapter03\operator\obj\Debug\net8.0\operator.dll
+D:\code\Chapter03\operator\obj\Debug\net8.0\refint\operator.dll
+D:\code\Chapter03\operator\obj\Debug\net8.0\operator.pdb
+D:\code\Chapter03\operator\obj\Debug\net8.0\operator.genruntimeconfig.cache
+D:\code\Chapter03\operator\obj\Debug\net8.0\ref\operator.dll

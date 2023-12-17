@@ -1,0 +1,14 @@
+D:\code\Chapter02\Formatting\bin\Debug\net8.0\Formatting.exe
+D:\code\Chapter02\Formatting\bin\Debug\net8.0\Formatting.deps.json
+D:\code\Chapter02\Formatting\bin\Debug\net8.0\Formatting.runtimeconfig.json
+D:\code\Chapter02\Formatting\bin\Debug\net8.0\Formatting.dll
+D:\code\Chapter02\Formatting\bin\Debug\net8.0\Formatting.pdb
+D:\code\Chapter02\Formatting\obj\Debug\net8.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Chapter02\Formatting\obj\Debug\net8.0\Formatting.AssemblyInfoInputs.cache
+D:\code\Chapter02\Formatting\obj\Debug\net8.0\Formatting.AssemblyInfo.cs
+D:\code\Chapter02\Formatting\obj\Debug\net8.0\Formatting.csproj.CoreCompileInputs.cache
+D:\code\Chapter02\Formatting\obj\Debug\net8.0\Formatting.dll
+D:\code\Chapter02\Formatting\obj\Debug\net8.0\refint\Formatting.dll
+D:\code\Chapter02\Formatting\obj\Debug\net8.0\Formatting.pdb
+D:\code\Chapter02\Formatting\obj\Debug\net8.0\Formatting.genruntimeconfig.cache
+D:\code\Chapter02\Formatting\obj\Debug\net8.0\ref\Formatting.dll
