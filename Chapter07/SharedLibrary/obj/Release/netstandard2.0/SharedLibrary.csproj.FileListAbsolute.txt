@@ -1,0 +1,11 @@
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.deps.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.pdb
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.csproj.AssemblyReference.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.AssemblyInfoInputs.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.AssemblyInfo.cs
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.sourcelink.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.pdb

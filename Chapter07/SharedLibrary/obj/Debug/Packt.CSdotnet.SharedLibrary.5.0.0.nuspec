@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Packt.CSdotnet.SharedLibrary</id>
+    <version>5.0.0</version>
+    <title>Shared Library</title>
+    <authors>YoussefGemy</authors>
+    <icon>packt-csdotnet-sharedlibrary.png</icon>
+    <projectUrl>https://github.com/YoussefGemy/C-sharp-and-.NET-showcase-practices-</projectUrl>
+    <description>Three extension methods to validate a string value.</description>
+    <releaseNotes>Example shared library packaged for NuGet.</releaseNotes>
+    <tags>string extensions packt csharp net</tags>
+    <repository type="git" commit="b08101939086fbd7aca935d1b27a61f4d84e8619" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\C-sharp-and-.NET-showcase-practices-\Chapter07\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.dll" target="lib\netstandard2.0\SharedLibrary.dll" />
+    <file src="D:\C-sharp-and-.NET-showcase-practices-\Chapter07\SharedLibrary\packt-csdotnet-sharedlibrary.png" target="packt-csdotnet-sharedlibrary.png" />
+  </files>
+</package>

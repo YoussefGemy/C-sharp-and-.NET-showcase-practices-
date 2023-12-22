@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gaSK+ppADBimZO4vFT7ntpS0Z+UiBVk+6xXA2j1InQ+V6vRpJ1tC9EY4kqeZWfCIaVZg4pQQPWPy69ARwtIIiA==",
+  "success": true,
+  "projectFilePath": "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter07\\SharedLibrary\\SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Youssef Gemy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Youssef Gemy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
