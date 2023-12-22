@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OJXBnke03oiWb4MUkn4blnuXOAKCnZp3Hyvy52i+VA7FURiYXlWtg5zwQOkAcIXe50X2rzZUl6RHj+ZK+j8MOw==",
+  "dgSpecHash": "vikKgFqk4vC/St4pHVKWWfvtDy/ZYKuTNnEBFZUD6M4O9aRvOvAqIhc1vncGstsg9r9ldSl+J371wPVmsYCcKg==",
   "success": true,
-  "projectFilePath": "D:\\code\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
+  "projectFilePath": "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
