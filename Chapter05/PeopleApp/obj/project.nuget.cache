@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mmatk5fEoZkO2chEYVcFDphh4R88jraA1ccHJ9ZOaZpk5tsivYEYrkXZaowhSZqP7HepATva2QgOibiqo8+1kQ==",
+  "dgSpecHash": "NpqspP3z+Jo2J+HXTGl29UxdJG+y32z/4Q7y5yqac57V2MqjbozV3dK6oXyyTqBsMnpC3u0hbpHdzq8DvHKzkg==",
   "success": true,
-  "projectFilePath": "D:\\code\\Chapter05\\PeopleApp\\PeopleApp.csproj",
+  "projectFilePath": "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter05\\PeopleApp\\PeopleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

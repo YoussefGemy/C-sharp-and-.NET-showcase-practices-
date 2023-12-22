@@ -48,11 +48,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\Chapter05\\PeopleApp\\PeopleApp.csproj",
+      "projectUniqueName": "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter05\\PeopleApp\\PeopleApp.csproj",
       "projectName": "PeopleApp",
-      "projectPath": "D:\\code\\Chapter05\\PeopleApp\\PeopleApp.csproj",
+      "projectPath": "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter05\\PeopleApp\\PeopleApp.csproj",
       "packagesPath": "C:\\Users\\Youssef Gemy\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\Chapter05\\PeopleApp\\obj\\",
+      "outputPath": "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter05\\PeopleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Youssef Gemy\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -67,11 +67,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\code\\Chapter05\\PacktLibrary9\\PacktLibrary9.csproj": {
-              "projectPath": "D:\\code\\Chapter05\\PacktLibrary9\\PacktLibrary9.csproj"
+            "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter05\\PacktLibrary9\\PacktLibrary9.csproj": {
+              "projectPath": "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter05\\PacktLibrary9\\PacktLibrary9.csproj"
             },
-            "D:\\code\\Chapter05\\PacktLibrary\\PacktLibrary.csproj": {
-              "projectPath": "D:\\code\\Chapter05\\PacktLibrary\\PacktLibrary.csproj"
+            "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter05\\PacktLibrary\\PacktLibrary.csproj": {
+              "projectPath": "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter05\\PacktLibrary\\PacktLibrary.csproj"
             }
           }
         }

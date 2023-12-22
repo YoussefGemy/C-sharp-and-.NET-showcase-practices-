@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\Chapter05\\PacktLibrary9\\PacktLibrary9.csproj": {}
+    "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter05\\PacktLibrary9\\PacktLibrary9.csproj": {}
   },
   "projects": {
-    "D:\\code\\Chapter05\\PacktLibrary9\\PacktLibrary9.csproj": {
+    "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter05\\PacktLibrary9\\PacktLibrary9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\Chapter05\\PacktLibrary9\\PacktLibrary9.csproj",
+        "projectUniqueName": "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter05\\PacktLibrary9\\PacktLibrary9.csproj",
         "projectName": "PacktLibrary9",
-        "projectPath": "D:\\code\\Chapter05\\PacktLibrary9\\PacktLibrary9.csproj",
+        "projectPath": "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter05\\PacktLibrary9\\PacktLibrary9.csproj",
         "packagesPath": "C:\\Users\\Youssef Gemy\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\Chapter05\\PacktLibrary9\\obj\\",
+        "outputPath": "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter05\\PacktLibrary9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Youssef Gemy\\AppData\\Roaming\\NuGet\\NuGet.Config"
