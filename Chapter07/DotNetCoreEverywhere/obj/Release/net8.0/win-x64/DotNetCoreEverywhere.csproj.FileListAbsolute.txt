@@ -1,0 +1,15 @@
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\bin\Release\net8.0\win-x64\DotNetCoreEverywhere.exe
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\bin\Release\net8.0\win-x64\DotNetCoreEverywhere.deps.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\bin\Release\net8.0\win-x64\DotNetCoreEverywhere.runtimeconfig.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\bin\Release\net8.0\win-x64\DotNetCoreEverywhere.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\bin\Release\net8.0\win-x64\DotNetCoreEverywhere.pdb
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\obj\Release\net8.0\win-x64\DotNetCoreEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\obj\Release\net8.0\win-x64\DotNetCoreEverywhere.AssemblyInfoInputs.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\obj\Release\net8.0\win-x64\DotNetCoreEverywhere.AssemblyInfo.cs
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\obj\Release\net8.0\win-x64\DotNetCoreEverywhere.csproj.CoreCompileInputs.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\obj\Release\net8.0\win-x64\DotNetCoreEverywhere.sourcelink.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\obj\Release\net8.0\win-x64\DotNetCoreEverywhere.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\obj\Release\net8.0\win-x64\refint\DotNetCoreEverywhere.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\obj\Release\net8.0\win-x64\DotNetCoreEverywhere.pdb
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\obj\Release\net8.0\win-x64\DotNetCoreEverywhere.genruntimeconfig.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\obj\Release\net8.0\win-x64\ref\DotNetCoreEverywhere.dll

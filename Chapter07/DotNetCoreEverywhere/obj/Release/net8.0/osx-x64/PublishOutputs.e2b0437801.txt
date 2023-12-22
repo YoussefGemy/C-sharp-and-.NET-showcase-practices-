@@ -1,0 +1,5 @@
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\bin\Release\net8.0\osx-x64\publish\DotNetCoreEverywhere
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\bin\Release\net8.0\osx-x64\publish\DotNetCoreEverywhere.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\bin\Release\net8.0\osx-x64\publish\DotNetCoreEverywhere.deps.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\bin\Release\net8.0\osx-x64\publish\DotNetCoreEverywhere.runtimeconfig.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter07\DotNetCoreEverywhere\bin\Release\net8.0\osx-x64\publish\DotNetCoreEverywhere.pdb

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "9BCnUsopgzlJaNBPOb2GSBXFe3IbREN2vgquhZD3avpp1HP+yMxj/7706KJyJkylH/g9sM9Bk48gcCZCyFBe5A==",
+  "success": true,
+  "projectFilePath": "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter07\\DotNetCoreEverywhere\\DotNetCoreEverywhere.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Youssef Gemy\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\Youssef Gemy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Youssef Gemy\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\8.0.0\\microsoft.aspnetcore.app.runtime.osx-x64.8.0.0.nupkg.sha512",
+    "C:\\Users\\Youssef Gemy\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.0\\microsoft.aspnetcore.app.runtime.win-x64.8.0.0.nupkg.sha512",
+    "C:\\Users\\Youssef Gemy\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\8.0.0\\microsoft.netcore.app.host.osx-x64.8.0.0.nupkg.sha512",
+    "C:\\Users\\Youssef Gemy\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\8.0.0\\microsoft.netcore.app.runtime.osx-x64.8.0.0.nupkg.sha512",
+    "C:\\Users\\Youssef Gemy\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.0\\microsoft.netcore.app.runtime.win-x64.8.0.0.nupkg.sha512",
+    "C:\\Users\\Youssef Gemy\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
