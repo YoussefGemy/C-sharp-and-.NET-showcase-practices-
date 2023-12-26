@@ -1,0 +1,15 @@
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithText\bin\Debug\net8.0\WorkingWithText.exe
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithText\bin\Debug\net8.0\WorkingWithText.deps.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithText\bin\Debug\net8.0\WorkingWithText.runtimeconfig.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithText\bin\Debug\net8.0\WorkingWithText.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithText\bin\Debug\net8.0\WorkingWithText.pdb
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithText\obj\Debug\net8.0\WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithText\obj\Debug\net8.0\WorkingWithText.AssemblyInfoInputs.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithText\obj\Debug\net8.0\WorkingWithText.AssemblyInfo.cs
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithText\obj\Debug\net8.0\WorkingWithText.csproj.CoreCompileInputs.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithText\obj\Debug\net8.0\WorkingWithText.sourcelink.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithText\obj\Debug\net8.0\WorkingWithText.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithText\obj\Debug\net8.0\refint\WorkingWithText.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithText\obj\Debug\net8.0\WorkingWithText.pdb
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithText\obj\Debug\net8.0\WorkingWithText.genruntimeconfig.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithText\obj\Debug\net8.0\ref\WorkingWithText.dll

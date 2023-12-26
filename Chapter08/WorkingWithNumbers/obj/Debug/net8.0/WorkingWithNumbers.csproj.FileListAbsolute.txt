@@ -1,0 +1,15 @@
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithNumbers\bin\Debug\net8.0\WorkingWithNumbers.exe
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithNumbers\bin\Debug\net8.0\WorkingWithNumbers.deps.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithNumbers\bin\Debug\net8.0\WorkingWithNumbers.runtimeconfig.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithNumbers\bin\Debug\net8.0\WorkingWithNumbers.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithNumbers\bin\Debug\net8.0\WorkingWithNumbers.pdb
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.AssemblyInfoInputs.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.AssemblyInfo.cs
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.sourcelink.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\refint\WorkingWithNumbers.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.pdb
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.genruntimeconfig.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\ref\WorkingWithNumbers.dll
