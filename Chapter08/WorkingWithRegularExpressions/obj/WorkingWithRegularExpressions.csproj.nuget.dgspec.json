@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter01\\HelloCS\\HelloCS.csproj": {}
+    "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter08\\WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj": {}
   },
   "projects": {
-    "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter01\\HelloCS\\HelloCS.csproj": {
+    "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter08\\WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter01\\HelloCS\\HelloCS.csproj",
-        "projectName": "HelloCS",
-        "projectPath": "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter01\\HelloCS\\HelloCS.csproj",
+        "projectUniqueName": "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter08\\WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj",
+        "projectName": "WorkingWithRegularExpressions",
+        "projectPath": "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter08\\WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj",
         "packagesPath": "C:\\Users\\Youssef Gemy\\.nuget\\packages\\",
-        "outputPath": "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter01\\HelloCS\\obj\\",
+        "outputPath": "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter08\\WorkingWithRegularExpressions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Youssef Gemy\\AppData\\Roaming\\NuGet\\NuGet.Config"

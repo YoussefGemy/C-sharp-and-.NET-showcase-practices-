@@ -1,0 +1,15 @@
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRegularExpressions\bin\Debug\net8.0\WorkingWithRegularExpressions.exe
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRegularExpressions\bin\Debug\net8.0\WorkingWithRegularExpressions.deps.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRegularExpressions\bin\Debug\net8.0\WorkingWithRegularExpressions.runtimeconfig.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRegularExpressions\bin\Debug\net8.0\WorkingWithRegularExpressions.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRegularExpressions\bin\Debug\net8.0\WorkingWithRegularExpressions.pdb
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\WorkingWithRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\WorkingWithRegularExpressions.AssemblyInfo.cs
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\WorkingWithRegularExpressions.sourcelink.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\WorkingWithRegularExpressions.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\refint\WorkingWithRegularExpressions.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\WorkingWithRegularExpressions.pdb
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\WorkingWithRegularExpressions.genruntimeconfig.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRegularExpressions\obj\Debug\net8.0\ref\WorkingWithRegularExpressions.dll
