@@ -11,7 +11,8 @@ string input = ReadLine();
 
 //we also can do this by make it in class and just call it
 // Regex ageChecker = new(DigitsOnlyText);
-Regex ageChecker = new(DigitsOnlyText, RegexOptions.Compiled);
+// Regex ageChecker = new(DigitsOnlyText, RegexOptions.Compiled);
+Regex ageChecker = DigitsOnly();
 
 if (ageChecker.IsMatch(input)){
     WriteLine("Thank you!");
@@ -38,7 +39,8 @@ foreach (string film in filmsDumb){
 }
 
 //Regex csv = new("(?:^|,)(?=[^\"]|(\")?)\"?((?(1)[^\"]*|[^,\"]*))\"?(?=,|$)");
-Regex csv = new(CommaSeparatorText);
+// Regex csv = new(CommaSeparatorText);
+Regex csv = CommaSeparator();
 MatchCollection filmsSmart = csv.Matches(films);
 WriteLine("Smart attempt at splitting:");
 foreach (Match film in filmsSmart){

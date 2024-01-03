@@ -1,0 +1,15 @@
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithCollections\bin\Debug\net8.0\WorkingWithCollections.exe
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithCollections\bin\Debug\net8.0\WorkingWithCollections.deps.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithCollections\bin\Debug\net8.0\WorkingWithCollections.runtimeconfig.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithCollections\bin\Debug\net8.0\WorkingWithCollections.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithCollections\bin\Debug\net8.0\WorkingWithCollections.pdb
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.AssemblyInfoInputs.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.AssemblyInfo.cs
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.csproj.CoreCompileInputs.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.sourcelink.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithCollections\obj\Debug\net8.0\refint\WorkingWithCollections.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.pdb
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithCollections\obj\Debug\net8.0\WorkingWithCollections.genruntimeconfig.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithCollections\obj\Debug\net8.0\ref\WorkingWithCollections.dll

@@ -1,0 +1,15 @@
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRanges\obj\Debug\net8.0\WorkingWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRanges\obj\Debug\net8.0\WorkingWithRanges.AssemblyInfoInputs.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRanges\obj\Debug\net8.0\WorkingWithRanges.AssemblyInfo.cs
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRanges\obj\Debug\net8.0\WorkingWithRanges.csproj.CoreCompileInputs.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRanges\obj\Debug\net8.0\WorkingWithRanges.sourcelink.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRanges\bin\Debug\net8.0\WorkingWithRanges.exe
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRanges\bin\Debug\net8.0\WorkingWithRanges.deps.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRanges\bin\Debug\net8.0\WorkingWithRanges.runtimeconfig.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRanges\bin\Debug\net8.0\WorkingWithRanges.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRanges\bin\Debug\net8.0\WorkingWithRanges.pdb
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRanges\obj\Debug\net8.0\WorkingWithRanges.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRanges\obj\Debug\net8.0\refint\WorkingWithRanges.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRanges\obj\Debug\net8.0\WorkingWithRanges.pdb
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRanges\obj\Debug\net8.0\WorkingWithRanges.genruntimeconfig.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter08\WorkingWithRanges\obj\Debug\net8.0\ref\WorkingWithRanges.dll
