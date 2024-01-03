@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\problemSolving\\problemSolving.csproj": {}
+    "D:\\C-sharp-and-.NET-showcase-practices-\\problemSolving\\problemSolving.csproj": {}
   },
   "projects": {
-    "D:\\code\\problemSolving\\problemSolving.csproj": {
+    "D:\\C-sharp-and-.NET-showcase-practices-\\problemSolving\\problemSolving.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\problemSolving\\problemSolving.csproj",
+        "projectUniqueName": "D:\\C-sharp-and-.NET-showcase-practices-\\problemSolving\\problemSolving.csproj",
         "projectName": "problemSolving",
-        "projectPath": "D:\\code\\problemSolving\\problemSolving.csproj",
+        "projectPath": "D:\\C-sharp-and-.NET-showcase-practices-\\problemSolving\\problemSolving.csproj",
         "packagesPath": "C:\\Users\\Youssef Gemy\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\problemSolving\\obj\\",
+        "outputPath": "D:\\C-sharp-and-.NET-showcase-practices-\\problemSolving\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Youssef Gemy\\AppData\\Roaming\\NuGet\\NuGet.Config"

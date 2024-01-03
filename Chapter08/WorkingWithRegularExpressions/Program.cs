@@ -7,7 +7,12 @@ string input = ReadLine();
 //var ageChecker = new Regex(@"\d");//(mean the input contain at least one digit) 
 //var ageChecker = new Regex(@"\d{3}-\d{2}-\d{4}");
 //mean the input containt 3 digit and - and 2 digit and - and 4 digit and any other thing 
-var ageChecker = new Regex(@"^\d+$");
+//var ageChecker = new Regex(@"^\d+$");
+
+//we also can do this by make it in class and just call it
+// Regex ageChecker = new(DigitsOnlyText);
+Regex ageChecker = new(DigitsOnlyText, RegexOptions.Compiled);
+
 if (ageChecker.IsMatch(input)){
     WriteLine("Thank you!");
 }
@@ -32,13 +37,16 @@ foreach (string film in filmsDumb){
     WriteLine(film);
 }
 
-Regex csv = new("(?:^|,)(?=[^\"]|(\")?)\"?((?(1)[^\"]*|[^,\"]*))\"?(?=,|$)");
+//Regex csv = new("(?:^|,)(?=[^\"]|(\")?)\"?((?(1)[^\"]*|[^,\"]*))\"?(?=,|$)");
+Regex csv = new(CommaSeparatorText);
 MatchCollection filmsSmart = csv.Matches(films);
 WriteLine("Smart attempt at splitting:");
 foreach (Match film in filmsSmart){
     WriteLine(film.Groups[2].Value);
 }
 
+//go to line 10;
+
+
 //Regex onlyNumbers=new();
 //Regex Comma=new(CommaSeparatorText);
-
