@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KEO57i0HHsX4coFVvG5omxXikXFIxNqPKeEQCBiwlYvnb3PHTaLitgwQZolIldDZVFmFxemYKyjfIfWTVX6kZA==",
+  "success": true,
+  "projectFilePath": "D:\\C-sharp-and-.NET-showcase-practices-\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Youssef Gemy\\.nuget\\packages\\spectre.console\\0.47.0\\spectre.console.0.47.0.nupkg.sha512",
+    "C:\\Users\\Youssef Gemy\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
