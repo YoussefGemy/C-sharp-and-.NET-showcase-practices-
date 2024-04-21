@@ -11,6 +11,12 @@ public class NorthwindDb:DbContext {
         string connectionString = $"Data Source={path}";
         WriteLine($"Connection: {connectionString}");
         optionsBuilder.UseSqlite(connectionString);
+        optionsBuilder.LogTo(WriteLine) // This is the Console method.
+#if DEBUG
+  .EnableSensitiveDataLogging() // Include SQL parameters.
+  .EnableDetailedErrors()
+#endif
+            ;
     }
     protected override void OnModelCreating(ModelBuilder modelBuilder) {
         // Example of using Fluent API instead of attributes

@@ -1,5 +1,11 @@
 ﻿using Northwind.EntityModels;
-using NorthwindDb db=new();
 
-WriteLine($"Provider: {db.Database.ProviderName}");
+//using NorthwindDb db=new();
+//WriteLine($"Provider: {db.Database.ProviderName}");
 // Disposes the database context
+    
+    
+// ConfigureConsole();
+// QueryingCategories();
+FilteredIncludes();
+// QueryingProducts();

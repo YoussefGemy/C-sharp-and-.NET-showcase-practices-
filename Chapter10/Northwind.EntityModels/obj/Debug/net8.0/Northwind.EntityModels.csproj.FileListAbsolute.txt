@@ -10,3 +10,5 @@ D:\C-sharp-and-.NET-showcase-practices-\Chapter10\Northwind.EntityModels\obj\Deb
 D:\C-sharp-and-.NET-showcase-practices-\Chapter10\Northwind.EntityModels\obj\Debug\net8.0\refint\Northwind.EntityModels.dll
 D:\C-sharp-and-.NET-showcase-practices-\Chapter10\Northwind.EntityModels\obj\Debug\net8.0\Northwind.EntityModels.pdb
 D:\C-sharp-and-.NET-showcase-practices-\Chapter10\Northwind.EntityModels\obj\Debug\net8.0\ref\Northwind.EntityModels.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter10\Northwind.EntityModels\bin\Debug\net8.0\Northwind.EntityModels.runtimeconfig.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter10\Northwind.EntityModels\obj\Debug\net8.0\Northwind.EntityModels.genruntimeconfig.cache
