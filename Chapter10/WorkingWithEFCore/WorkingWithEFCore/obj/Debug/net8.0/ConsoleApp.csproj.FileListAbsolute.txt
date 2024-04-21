@@ -1,0 +1,15 @@
+D:\C-sharp-and-.NET-showcase-practices-\Chapter10\WorkingWithEFCore\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+D:\C-sharp-and-.NET-showcase-practices-\Chapter10\WorkingWithEFCore\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter10\WorkingWithEFCore\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter10\WorkingWithEFCore\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter10\WorkingWithEFCore\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+D:\C-sharp-and-.NET-showcase-practices-\Chapter10\WorkingWithEFCore\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp-and-.NET-showcase-practices-\Chapter10\WorkingWithEFCore\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter10\WorkingWithEFCore\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+D:\C-sharp-and-.NET-showcase-practices-\Chapter10\WorkingWithEFCore\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter10\WorkingWithEFCore\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+D:\C-sharp-and-.NET-showcase-practices-\Chapter10\WorkingWithEFCore\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter10\WorkingWithEFCore\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+D:\C-sharp-and-.NET-showcase-practices-\Chapter10\WorkingWithEFCore\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+D:\C-sharp-and-.NET-showcase-practices-\Chapter10\WorkingWithEFCore\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+D:\C-sharp-and-.NET-showcase-practices-\Chapter10\WorkingWithEFCore\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
