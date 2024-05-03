@@ -1,0 +1,16 @@
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.DataContext.Sqlite.deps.json
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.DataContext.Sqlite.dll
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.DataContext.Sqlite.pdb
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.csproj.AssemblyReference.cache
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.AssemblyInfoInputs.cache
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.AssemblyInfo.cs
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.csproj.CoreCompileInputs.cache
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.sourcelink.json
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.dll
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\refint\Northwind.DataContext.Sqlite.dll
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.pdb
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\ref\Northwind.DataContext.Sqlite.dll
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.EntityModels.Sqlite.dll
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.EntityModels.Sqlite.pdb
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.csproj.CopyComplete
