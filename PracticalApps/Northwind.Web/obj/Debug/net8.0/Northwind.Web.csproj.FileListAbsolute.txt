@@ -24,3 +24,6 @@ D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.Web\obj\Debug\ne
 D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.Web\obj\Debug\net8.0\Northwind.Web.pdb
 D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.Web\obj\Debug\net8.0\Northwind.Web.genruntimeconfig.cache
 D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.Web\obj\Debug\net8.0\ref\Northwind.Web.dll
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.Web\bin\Debug\net8.0\Northwind.Web.staticwebassets.runtime.json
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.Web\obj\Debug\net8.0\Northwind.Web.RazorAssemblyInfo.cache
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.Web\obj\Debug\net8.0\Northwind.Web.RazorAssemblyInfo.cs
