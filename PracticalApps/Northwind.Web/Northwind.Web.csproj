@@ -18,5 +18,25 @@
         <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       </Content>
     </ItemGroup>
+    
+<!--    we can control the the files run like that-->
+<!--    <&#45;&#45;Include the greet.proto file in the build process.&ndash;&gt;-->
+<!--    <ItemGroup>-->
+<!--        <Protobuf Include="Protos\greet.proto" GrpcServices="Server" />-->
+<!--    </ItemGroup>-->
+<!--    <&#45;&#45;Remove the stylecop.json file from the build process.&ndash;&gt;-->
+<!--    <ItemGroup>-->
+<!--        <None Remove="stylecop.json" />-->
+<!--    </ItemGroup>-->
+<!--    <&#45;&#45;Include the stylecop.json file in the deployment.&ndash;&gt;-->
+<!--    <ItemGroup>-->
+<!--        <AdditionalFiles Include="stylecop.json" />-->
+<!--    </ItemGroup>-->
 
+
+    <!-- Change Sqlite to SqlServer if you prefer. -->
+    <ItemGroup>
+        <ProjectReference Include="..\Northwind.DataContext.Sqlite\Northwind.DataContext.Sqlite.csproj" />
+    </ItemGroup>
+    
 </Project>
