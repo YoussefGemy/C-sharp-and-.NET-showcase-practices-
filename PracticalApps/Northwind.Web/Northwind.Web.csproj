@@ -35,8 +35,8 @@
 
 
     <!-- Change Sqlite to SqlServer if you prefer. -->
-    <ItemGroup>
-        <ProjectReference Include="..\Northwind.DataContext.Sqlite\Northwind.DataContext.Sqlite.csproj" />
-    </ItemGroup>
+<!--    <ItemGroup>-->
+<!--        <ProjectReference Include="..\Northwind.DataContext.Sqlite\Northwind.DataContext.Sqlite.csproj" />-->
+<!--    </ItemGroup>-->
     
 </Project>

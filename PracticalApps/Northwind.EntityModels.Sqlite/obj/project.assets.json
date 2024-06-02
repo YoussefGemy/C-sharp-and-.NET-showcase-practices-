@@ -2526,7 +2526,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Youssef Gemy\\.nuget\\packages\\": {}
+    "C:\\Users\\youss\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -2534,11 +2534,11 @@
       "projectUniqueName": "D:\\C-sharp-and-.NET-showcase-practices-\\PracticalApps\\Northwind.EntityModels.Sqlite\\Northwind.EntityModels.Sqlite.csproj",
       "projectName": "Northwind.EntityModels.Sqlite",
       "projectPath": "D:\\C-sharp-and-.NET-showcase-practices-\\PracticalApps\\Northwind.EntityModels.Sqlite\\Northwind.EntityModels.Sqlite.csproj",
-      "packagesPath": "C:\\Users\\Youssef Gemy\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\youss\\.nuget\\packages\\",
       "outputPath": "D:\\C-sharp-and-.NET-showcase-practices-\\PracticalApps\\Northwind.EntityModels.Sqlite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Youssef Gemy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\youss\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -2556,6 +2556,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2589,7 +2594,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -13,4 +13,4 @@ D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqli
 D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\ref\Northwind.DataContext.Sqlite.dll
 D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.EntityModels.Sqlite.dll
 D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.EntityModels.Sqlite.pdb
-D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.csproj.CopyComplete
+D:\C-sharp-and-.NET-showcase-practices-\PracticalApps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwin.446D235C.Up2Date
