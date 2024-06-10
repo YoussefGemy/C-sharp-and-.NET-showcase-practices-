@@ -2,10 +2,16 @@ using Microsoft.AspNetCore.Mvc.Formatters; // To use IOutputFormatter.
 using Northwind.EntityModels; // To use AddNorthwindContext method.
 using Microsoft.Extensions.Caching.Memory; // To use IMemoryCache and so on.
 using Northwind.WebApi.Repositories; // To use ICustomerRepository.
-
+using Swashbuckle.AspNetCore.SwaggerUI;
+using Microsoft.AspNetCore.HttpLogging; // To use HttpLoggingFields.
 
 var builder = WebApplication.CreateBuilder(args);
-
+builder.Services.AddHttpLogging(options =>
+{
+    options.LoggingFields = HttpLoggingFields.All;
+    options.RequestBodyLogLimit = 4096; // Default is 32k.
+    options.ResponseBodyLogLimit = 4096; // Default is 32k.
+});
 builder.Services.AddSingleton<IMemoryCache>(
     new MemoryCache(new MemoryCacheOptions()));
 
@@ -40,43 +46,26 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 
+
 builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
 
 var app = builder.Build();
+ app.UseHttpLogging();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(c =>
+    {
+         c.SwaggerEndpoint("/swagger/v1/swagger.json","Northwind Service API Version 1");
+         c.SupportedSubmitMethods(new[] { 
+         SubmitMethod.Get, SubmitMethod.Post,
+         SubmitMethod.Put, SubmitMethod.Delete });
+     });
 }
 
 app.UseHttpsRedirection();
-// var summaries = new[]
-// {
-//     "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-// };
 
-// app.MapGet("/", () => "Hello, world").ShortCircuit();
-// app.MapShortCircuit(404, "robots.txt", "favicon.ico");
-// app.MapGet("/weatherforecast", () =>
-// {
-//     var forecast =  Enumerable.Range(1, 5).Select(index =>
-//         new WeatherForecast
-//         (
-//             DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-//             Random.Shared.Next(-20, 55),
-//             summaries[Random.Shared.Next(summaries.Length)]
-//         ))
-//         .ToArray();
-//     return forecast;
-// })
-// .WithName("GetWeatherForecast")
-// .WithOpenApi();
-
+app.MapControllers();
 app.Run();
-
-// record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-// {
-//     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-// }
